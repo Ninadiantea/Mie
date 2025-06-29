@@ -1,0 +1,8 @@
+{
+  "admin": { "username": "admin", "password": "super123" },
+  "penjaga": [],
+  "pelanggan": [],
+  "barang": [],
+  "transaksi": [],
+  "group_id": -1001234567890
+}
